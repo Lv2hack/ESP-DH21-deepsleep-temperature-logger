@@ -44,7 +44,7 @@ char strdeepSleepSecs[8] = "1200";  //used for reading from json
 int analogValue;  // Analog pin reading
 
 // The ID below comes from Google Sheets. See how to get it here: http://embedded-lab.com/blog/post-data-google-sheets-using-esp8266
-char GScriptID[60] = "AKfycbzN-nlrXWW2FZJZlm_g98majFKxAv0OD9KRC2E4B6T-UmOj5Yoo";  // Default setting for GScriptID
+char GScriptID[60] = "scrip_id_here";  // Default setting for GScriptID
 //char GScriptID[60] = "<YOUR-GSCRIPT-ID-HERE>";  // Default setting for GScriptID
 
 const char* host = "script.google.com";
